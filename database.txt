@@ -1,0 +1,3 @@
+smash_character
+password
+smash_character_library
