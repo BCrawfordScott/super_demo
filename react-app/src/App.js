@@ -6,6 +6,9 @@ function App() {
     <div className="App">
       <h1>Super Smash App!</h1>
       <Characters />
+      <footer>
+        All the cool footer stuff.
+      </footer>
     </div>
   );
 }
